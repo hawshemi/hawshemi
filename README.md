@@ -1,5 +1,4 @@
-Hi
+I’m an Architect who loves Computers (Software & Hardware) and Computational Design. 
+Trying to use AI and Machine Learning in Architecture and Designing.
 
-My name is MohammadRasool Hashemi. You can call me Hashem.
-
-I'm an Architect who loves Computers (Software & Hardware) and Trading (Forex & Bitcoin).
+You can call me Hashem.
