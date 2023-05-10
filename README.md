@@ -1,6 +1,7 @@
  
 ![Hawshemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawshemi&count_private=true&show_icons=true&theme=transparent&hide_border=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawshemi&theme=transparent&hide_border=true&layout=compact)
 
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/hawshemi"><img alt="Linkedin" title="Rasool Hashemi Linkedin" src="https://img.shields.io/badge/LinkedIn-133563?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -9,4 +10,5 @@
   <a href="http://twitter.com/hawshemi"><img alt="Twitter" title="Rasool Hashemi Twitter" src="https://img.shields.io/badge/Twitter-133563?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/hawshemi"><img alt="Github" title="Rasool Hashemi Github" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
 <br>
