@@ -1,5 +1,5 @@
  
-![Hawshemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawshemi&count_private=true&show_icons=true&theme=transparent&hide_border=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawshemi&theme=transparent&hide_border=true&layout=compact)
+![Hawshemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawshemi&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawshemi&theme=transparent&hide_border=true&layout=compact)
 
 <br>
 
