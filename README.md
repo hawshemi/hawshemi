@@ -3,9 +3,9 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+</div>
 
 <br>
 
