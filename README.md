@@ -3,9 +3,7 @@
 
 <br>
 
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark)]
 
 <br>
 
