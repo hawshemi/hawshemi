@@ -2,7 +2,7 @@
 ![Hawshemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawshemi&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawshemi&theme=transparent&hide_border=true&layout=compact)
 
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark)
 <br>
 
 <p align="center">
