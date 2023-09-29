@@ -3,7 +3,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark)
 
 <br>
 
