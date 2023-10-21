@@ -7,7 +7,7 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawshemi&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawshemi&theme=transparent&width="90%")
 
 <br>
 
