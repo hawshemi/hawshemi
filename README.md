@@ -7,7 +7,7 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hawshemi&theme=transparent&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawshemi&theme=transparent)
 
 <br>
 
