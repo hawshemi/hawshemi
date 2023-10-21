@@ -3,7 +3,7 @@
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark&width="90%")
+![trophy](https://github-profile-trophy.vercel.app/?username=hawshemi&theme=onedark&column=-1)
 
 <br>
 
