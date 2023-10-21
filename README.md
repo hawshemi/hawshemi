@@ -7,6 +7,10 @@
 
 <br>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hawshemi&theme=transparent&hide_border=true)
+
+<br>
+
 <p align="center">
   <a href="https://linkedin.com/in/hawshemi"><img alt="Linkedin" title="Rasool Hashemi Linkedin" src="https://img.shields.io/badge/LinkedIn-133563?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/rhawshemi"><img alt="Instagram" title="Rasool Hashemi Instagram" src="https://img.shields.io/badge/Instagram-133563?style=for-the-badge&logo=instagram&logoColor=white"></a>
